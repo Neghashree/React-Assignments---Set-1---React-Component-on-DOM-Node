@@ -1,6 +1,7 @@
+ReactDOM.render(<App />, document.getElementById("root"));
+
 import React from 'react';
 
-ReactDOM.render(<App />, document.getElementById("root"));
 
 function App() {
   return (
@@ -9,5 +10,7 @@ function App() {
     </div>
     )
 }
+
+
 export default App;
 
