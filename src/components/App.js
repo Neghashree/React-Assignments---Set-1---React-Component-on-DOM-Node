@@ -1,5 +1,7 @@
 import React from 'react';
 
+ReactDOM.render(<App />, id="root");
+
 function App() {
   return (
     <div>
